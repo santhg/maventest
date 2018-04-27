@@ -30,4 +30,12 @@
         <version>2.12.4</version>
         </dependency>
   </dependencies>
+  
+  <distributionManagement>
+  <repository>
+  <id>mymavenrepo.write</id>
+  <url>https://mymavenrepo.com/maven</url>
+  </repository>
+  </distributionManagement>
+  
 </project>
